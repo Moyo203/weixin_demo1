@@ -1,0 +1,10 @@
+/**index.wxss**/
+.nav{
+  display: flex;
+  background-color: #ccc;
+  padding: 5px
+}
+.item{
+  flex:1;
+  text-align: center
+}
